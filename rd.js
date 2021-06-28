@@ -1,1 +1,1 @@
-window.location = 'https://sparklechat.me/decider.html';
+window.location = 'https://sparkle-chat.com/glogin';
