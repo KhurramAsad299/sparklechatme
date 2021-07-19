@@ -1,1 +1,1 @@
-window.location = 'https://sparkle-chat.com/glogin';
+window.location = 'https://sparkle-chat.com/login';
